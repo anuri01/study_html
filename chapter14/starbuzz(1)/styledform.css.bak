@@ -21,7 +21,7 @@ div.tableRow {
 
 div.tableRow p {
 	display: table-cell;
-	vertical-align: top;
+	vertical-align: bottom;
 	padding: 3px;
 }
  div.tableRow p:first-child {

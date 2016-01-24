@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
   <head>
-    <meta charset="utf-8">
+    <meta charset="euc-kr">
     <title>스타버즈 커피공장</title>
 	<link rel="stylesheet" href="starbuzz.css">
 	<link rel="stylesheet" href="styledform.css">
