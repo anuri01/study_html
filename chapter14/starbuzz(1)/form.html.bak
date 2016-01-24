@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>스타버즈 커피공장</title>
+  </head>
+  <body>
+
+    <h1>스타버즈 커피공장</h1>
+    <h2>아래 양식을 채운 후, “주문” 버튼을 클릭하세요</h2>
+	<form action="http://starbuzzcoffee.com/processorder.php" "method="POST">
+		<input type="text" name="이름">
+		<input type="text" name="주소">
+		<input type="text" name="도시">
+		<input type="text" name="지역">
+		<input type="text" name="우편번호">
+		<input type="tel" name="전화번호">
+	</form>
+
+
+
+  </body>
+</html>
+

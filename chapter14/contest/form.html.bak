@@ -10,7 +10,7 @@
 
         성   : <input type="text" name="firstname" value=""><br>
         이름:  <input type="text" name="lastname" value=""><br>
-        <input type="submit" name="확인" value="확인">
+        <input type="submit" name="확인" value="ghkrdls">
       </p>
     </form>
   </body>
